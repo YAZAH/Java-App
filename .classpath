@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Users/Gabriel-Élie/Documents/Ecole/H2016/Modèles &amp; langages bases de données/TP3/TP3yassine/TP3/ojdbc6.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
